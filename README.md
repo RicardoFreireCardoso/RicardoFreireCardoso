@@ -3,6 +3,7 @@
 
 
 # My Skills
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css" alt= "rails" width="40" height="40" style="max-width: 100%;"></img>
 <!--
 **RicardoFreireCardoso/RicardoFreireCardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
