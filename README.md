@@ -2,7 +2,7 @@
 # I'm Ricardo Freire
 
 
-#h1 My Skills
+# My Skills
 <!--
 **RicardoFreireCardoso/RicardoFreireCardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
