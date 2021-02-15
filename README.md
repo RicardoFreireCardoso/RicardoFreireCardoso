@@ -1,6 +1,6 @@
 ### Hi there 👋
 # I'm Ricardo Freire
-
+* I live in Brazil :brazil:
 
 # My Skills
 <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt= "" width="40" height="40" style="max-width: 100%;"></img>
